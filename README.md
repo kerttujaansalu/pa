@@ -5,5 +5,19 @@
 * github repo loomine - pa
 * VSCode remote seadistamine
 * Kursuse põhifailide loomine ja testimine
+## Andmetüübid
+* täisarvud
+* reaalarvud
+* sõned - tekstid
+* nimekirjad
+* objektid
+## Muutujad
+* ```var, let, const```
+* initsialiseerimine
+````var muutujaNimi;```
+* defineerimine ja väärtuse omistamine
+```var muutujaNimi = väärtus;```
+* var ja let väärtused on vüimalik muuta
+* const väärtused muuta ei saa
 ## Materjalid
 * PA käsiraamat [https://web.htk.tlu.ee/digitaru/programmeerimine/part/sissejuhatus/]
