@@ -1,5 +1,11 @@
- sisestatud_pin = prompt ("Sisesta PIN-kood: ");
-    if (sisestatud_pin == "1234") {;
-        console.log("Sisenesid pangaautomaati!")
-    } else { 
-        console.log("Vale parool! Ligipääs keelatud!")};
+// Tsüklid
+
+// for tsükkel ehk üldtsükkel
+// let arv;
+for(arv = 1; arv <= 10; arv++){
+  if(arv < 10) {
+    console.log('arv = ' + arv);
+} else {
+    console.log('arv = ' + arv);
+}
+}
