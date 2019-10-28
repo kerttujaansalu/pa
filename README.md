@@ -14,7 +14,7 @@
 ## Muutujad
 * ```var, let, const```
 * initsialiseerimine
-````var muutujaNimi;```
+```var muutujaNimi;```
 * defineerimine ja väärtuse omistamine
 ```var muutujaNimi = väärtus;```
 * var ja let väärtused on vüimalik muuta
